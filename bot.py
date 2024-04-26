@@ -43,9 +43,9 @@ logging.basicConfig(
 
 bot = Client(
     "bot",
-    api_id= 22779671,
-    api_hash= "125d8d88b77309dc3b154cbbfc2dacb2",    
-    bot_token= "6847175705:AAHbkU8GFmzoxR9dCQTr6RuZ4NQsev5ufz0"
+    api_id= 25586552,
+    api_hash= "f265cba9d76dc6ad70914accbe758f47",    
+    bot_token= "7141534335:AAHkZNrEfFI8Hly7B8kg0CNBEUSp_K46Gfk"
 )
 
 @bot.on_message(filters.command(["cp"]))
